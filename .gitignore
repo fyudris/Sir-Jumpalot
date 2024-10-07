@@ -1,0 +1,6 @@
+/.import/
+*.import
+/build/
+*.blend*
+*.swp
+.DS_Store
