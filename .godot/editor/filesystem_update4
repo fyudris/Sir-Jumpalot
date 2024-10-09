@@ -1,1 +1,12 @@
+res://scenes/game.tscn
+res://scenes/player.tscn
+res://assets/music/platform.tscn
 res://scenes/coin.tscn
+res://scenes/killzone.tscn
+res://scenes/slime.tscn
+res://scenes/music.tscn
+res://scenes/sand_platform.tscn
+res://scenes/purple_slime.tscn
+res://scenes/purple_slime.gd
+res://scripts/player.gd
+res://scripts/killzone.gd

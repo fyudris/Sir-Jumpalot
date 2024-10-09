@@ -1,8 +1,10 @@
-res://scenes/coin.tscn::94c1add44f49dea43fa9c9d0bbafdc4b::1728474261::res://.godot/exported/133200997/export-96b2131180b71dd158e52c5527d22dd4-coin.scn
-res://scenes/game.tscn::7d57fc39577ca2a393528310e48fbf7b::1728474261::res://.godot/exported/133200997/export-c2a7af834e91ff64325daddf58e45dc0-game.scn
-res://scenes/killzone.tscn::a0ff43bac2efaa1a4128690b0e3edde3::1728474261::res://.godot/exported/133200997/export-494bf1445653c44a49a39c8f8b1ce8d0-killzone.scn
-res://scenes/music.tscn::457103c5d715212e41fc46d0199f0c9e::1728474261::res://.godot/exported/133200997/export-bfd8027ae1117ff610be6f2619a76089-music.scn
-res://scenes/platform.tscn::cf31f1c7d4b29cd62d2483a7d03f16c3::1728474261::res://.godot/exported/133200997/export-cc2f727180cd42d9c13434cb55b1ce69-platform.scn
-res://scenes/player.tscn::93fbfc621842a8bc441c166259b2ce10::1728474261::res://.godot/exported/133200997/export-234fb6894ec6226e856ab7f825500d3d-player.scn
-res://scenes/slime.tscn::9906328ffc680c3994c5986ca56d73ba::1728474261::res://.godot/exported/133200997/export-cfec31ac835903e5b6c8af87b017aecf-slime.scn
+res://scenes/coin.tscn::94c1add44f49dea43fa9c9d0bbafdc4b::1728488707::res://.godot/exported/133200997/export-96b2131180b71dd158e52c5527d22dd4-coin.scn
+res://scenes/game.tscn::61aa4d57f9ce4e42ba9545a3fa525a3b::1728488706::res://.godot/exported/133200997/export-c2a7af834e91ff64325daddf58e45dc0-game.scn
+res://scenes/killzone.tscn::090b1f17e15d661b304ab043ca696b48::1728488808::res://.godot/exported/133200997/export-494bf1445653c44a49a39c8f8b1ce8d0-killzone.scn
+res://scenes/music.tscn::457103c5d715212e41fc46d0199f0c9e::1728488707::res://.godot/exported/133200997/export-bfd8027ae1117ff610be6f2619a76089-music.scn
+res://scenes/player.tscn::54335b6cadec8173142f0560a00714b2::1728488707::res://.godot/exported/133200997/export-234fb6894ec6226e856ab7f825500d3d-player.scn
+res://scenes/slime.tscn::9906328ffc680c3994c5986ca56d73ba::1728488707::res://.godot/exported/133200997/export-cfec31ac835903e5b6c8af87b017aecf-slime.scn
 res://default_bus_layout.tres::65fa8ac551df293ee89bd88d79010581::1728472364::res://.godot/exported/133200997/export-19246414aa9fb561ced4b8dce477acec-default_bus_layout.res
+res://assets/music/platform.tscn::cf31f1c7d4b29cd62d2483a7d03f16c3::1728488707::res://.godot/exported/133200997/export-092eee2a219cd355a68367c09140a33e-platform.scn
+res://scenes/purple_slime.tscn::1ecc4344577d5a064d44c8e6c07eed07::1728488707::res://.godot/exported/133200997/export-75ea549cac03a43850679826282242d3-purple_slime.scn
+res://scenes/sand_platform.tscn::14c4e32c91c63eda90612feb5b39df64::1728488707::res://.godot/exported/133200997/export-ffd1c1ed29c03a69d21a82e0c49e7a20-sand_platform.scn
