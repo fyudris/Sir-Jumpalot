@@ -1,4 +1,4 @@
-[gd_scene load_steps=13 format=3 uid="uid://b3eq7nf7jkyp3"]
+[gd_scene load_steps=14 format=3 uid="uid://b3eq7nf7jkyp3"]
 
 [ext_resource type="PackedScene" uid="uid://ciodxnv5tk7sv" path="res://scenes/player.tscn" id="1_sr8sq"]
 [ext_resource type="Texture2D" uid="uid://txkhc6aoautn" path="res://assets/sprites/world_tileset.png" id="2_r30p0"]
@@ -6,6 +6,7 @@
 [ext_resource type="PackedScene" uid="uid://drduk3h180mxw" path="res://scenes/coin.tscn" id="4_dthda"]
 [ext_resource type="PackedScene" uid="uid://dd1cv8cflvcy6" path="res://scenes/killzone.tscn" id="5_v40fn"]
 [ext_resource type="PackedScene" uid="uid://dmlr5q2b6e25r" path="res://scenes/slime.tscn" id="6_vh6r0"]
+[ext_resource type="FontFile" uid="uid://budlfyohbmy7w" path="res://assets/fonts/PixelOperator8.ttf" id="7_w5yu7"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_yv7ds"]
 texture = ExtResource("2_r30p0")
@@ -285,3 +286,35 @@ autoplay = "move"
 
 [node name="Slime" parent="Platform" instance=ExtResource("6_vh6r0")]
 position = Vector2(529, 83)
+
+[node name="Labels" type="Node" parent="."]
+
+[node name="Label" type="Label" parent="Labels"]
+offset_left = -111.0
+offset_top = 83.0
+offset_right = -20.0
+offset_bottom = 106.0
+theme_override_colors/font_color = Color(0.00784314, 0.14902, 0.34902, 1)
+theme_override_fonts/font = ExtResource("7_w5yu7")
+theme_override_font_sizes/font_size = 8
+text = "Space to jump."
+
+[node name="Label2" type="Label" parent="Labels"]
+offset_left = 369.0
+offset_top = 76.0
+offset_right = 465.0
+offset_bottom = 99.0
+theme_override_colors/font_color = Color(0.00784314, 0.14902, 0.34902, 1)
+theme_override_fonts/font = ExtResource("7_w5yu7")
+theme_override_font_sizes/font_size = 8
+text = "Falling hurts..."
+
+[node name="Label3" type="Label" parent="Labels"]
+offset_left = 706.0
+offset_top = -59.0
+offset_right = 802.0
+offset_bottom = -36.0
+theme_override_colors/font_color = Color(0.0980392, 0.313726, 0.752941, 1)
+theme_override_fonts/font = ExtResource("7_w5yu7")
+theme_override_font_sizes/font_size = 8
+text = "Almost there..."
