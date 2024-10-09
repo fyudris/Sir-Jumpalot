@@ -36,7 +36,7 @@ animations = [{
 }],
 "loop": true,
 "name": &"idle",
-"speed": 10.0
+"speed": 9.0
 }]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_sjdtx"]
@@ -51,8 +51,7 @@ position = Vector2(0, -12)
 sprite_frames = SubResource("SpriteFrames_8dkst")
 animation = &"idle"
 autoplay = "idle"
-frame = 3
-frame_progress = 0.940877
+frame_progress = 0.868103
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2(0, -5)
