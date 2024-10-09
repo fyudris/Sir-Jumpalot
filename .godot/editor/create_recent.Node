@@ -1,8 +1,9 @@
+RayCast2D
+CollisionShape2D
+AnimatedSprite2D
 Node
 Timer
-CollisionShape2D
 Area2D
-AnimatedSprite2D
 Sprite2D
 AnimationPlayer
 AnimatableBody2D
